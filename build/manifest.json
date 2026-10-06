@@ -1,0 +1,26 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.543c2e7b.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "__commonjsHelpers.b8add541.js"
+    ]
+  },
+  "resources/js/quote-pdf.js": {
+    "file": "assets/quote-pdf.b2763676.js",
+    "src": "resources/js/quote-pdf.js",
+    "isEntry": true,
+    "imports": [
+      "__commonjsHelpers.b8add541.js"
+    ]
+  },
+  "__commonjsHelpers.b8add541.js": {
+    "file": "assets/_commonjsHelpers.b8add541.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.392444bd.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}

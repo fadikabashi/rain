@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: /sitemap.xml
+
+# Disallow admin area
+Disallow: /admin/
+
+# Disallow API (if not needed for SEO)
+Disallow: /api/
+
+# Crawl delay (optional, adjust as needed)
+Crawl-delay: 1
